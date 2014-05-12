@@ -1,0 +1,10 @@
+{
+  "name" : "shoelace-ui-duration",
+  "version" : "0.0.1",
+  "description" : "Duration variables",
+  "repository" : "https://github.com/shoelace-ui/duration.git",
+  "keywords" : ["stylus", "shoelace", "duration"],
+  "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license" : "MIT",
+  "dependencies": {}
+}
