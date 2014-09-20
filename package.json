@@ -1,6 +1,6 @@
 {
   "name" : "shoelace-ui-duration",
-  "version" : "0.0.1",
+  "version" : "0.1.0",
   "description" : "Duration variables",
   "repository" : "https://github.com/shoelace-ui/duration.git",
   "keywords" : ["stylus", "shoelace", "duration"],

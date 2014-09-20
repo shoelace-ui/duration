@@ -1,13 +1,17 @@
-# duration
+#  duration
 
-Duration variables.
+Duration variables
 
-## Installation
+## Install
 
 ```sh
-$ npm install git://github.com/shoelace-ui/duration.git
+$ npm install shoelace-ui-duration
 ```
+## Usage
 
+```styl
+@require 'shoelace-ui-duration'
+```
 ## License
 
 MIT
